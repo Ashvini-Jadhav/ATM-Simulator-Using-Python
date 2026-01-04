@@ -83,8 +83,7 @@ Python 3.x installed
 Jupyter Notebook (optional)
 
 🔹 Steps
-git clone https://github.com/your-username/ATM-Simulator.git
-cd ATM-Simulator
+
 jupyter notebook
 
 
